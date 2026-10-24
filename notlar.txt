@@ -1,0 +1,5 @@
+1. wc: satir, kelime ve karakter sayisini birlikte verir
+2. sort: siralama yapar
+3. uniq: tekrarlanan verileri ayiklar
+4. cut: sutun/karakter ayiklamada kullanilir
+5. sed: metin bulma, degistirme ve satir silme islemleri icin kullanilir
