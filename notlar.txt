@@ -3,3 +3,10 @@
 3. uniq: tekrarlanan verileri ayiklar
 4. cut: sutun/karakter ayiklamada kullanilir
 5. sed: metin bulma, degistirme ve satir silme islemleri icin kullanilir
+
+--- Hafta 2: Git Komutlari ---
+1. git init - Yeni bir yerel Git deposu baslatir.
+2. git status - Calisma dizini ve staging area durumunu gosterir.
+3. git add - Dosyalari commit oncesi staging area'ya ekler.
+4. git commit - Yapilan degisiklikleri aciklamasiyla kalici olarak kaydeder.
+5. git branch - Dallari listeler, yeni dal olusturur veya siler.
