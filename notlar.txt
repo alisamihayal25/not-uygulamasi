@@ -10,3 +10,4 @@
 3. git add - Dosyalari commit oncesi staging area'ya ekler.
 4. git commit - Yapilan degisiklikleri aciklamasiyla kalici olarak kaydeder.
 5. git branch - Dallari listeler, yeni dal olusturur veya siler.
+# Hafta 2 Calismalari
